@@ -1,10 +1,12 @@
 ﻿body {
+    font-family: 'Merienda', cursive;
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
+    font-family: 'Merienda', cursive;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -13,6 +15,7 @@
    will truncate terms that are too long to fit in the left column 
 */
 .dl-horizontal dt {
+    font-family: 'Merienda', cursive;
     white-space: normal;
 }
 
@@ -20,5 +23,7 @@
 input,
 select,
 textarea {
+    font-family: 'Merienda', cursive;
     max-width: 280px;
 }
+
